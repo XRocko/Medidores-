@@ -1,2 +1,2 @@
 # Medidores-
-Agua y Corriente sdfs
+Agua y Corriente Utilizando Arduino UNO y shield RTC con MicroSD
